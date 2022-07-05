@@ -6,7 +6,7 @@ Culled from https://cryptomarketpool.com/getting-started-with-solidity/#block-ce
 
 ##
 
-The use of Delegatecall.
+The use of Solidity's Delegatecall.
 
 ##
 
