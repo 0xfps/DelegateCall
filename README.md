@@ -11,7 +11,3 @@ The use of Delegatecall.
 ##
 
 **Deployed at:** https://rinkeby.etherscan.io/address/0xDC4Ddd0324C86C7167ECc906b9FbF4a1055F40fa.
-
----
-
-Nnaemeka.
